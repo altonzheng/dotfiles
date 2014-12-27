@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/altonzheng/.ssh'
+let g:netrw_dirhist_2='/usr/local/Cellar/graphviz/2.38.0'
+let g:netrw_dirhist_3='/Users/altonzheng/Desktop/.git'
